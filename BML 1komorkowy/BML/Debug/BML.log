@@ -1,0 +1,3 @@
+﻿  BML.cpp
+c:\users\komp\desktop\studia\semestr 5\projekt zespolowy\bml 1komorkowy\bml\bml.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BML.vcxproj -> C:\Users\komp\Desktop\Studia\Semestr 5\Projekt zespolowy\BML 1komorkowy\Debug\BML.exe

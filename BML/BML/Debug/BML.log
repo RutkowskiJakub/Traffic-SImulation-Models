@@ -1,0 +1,5 @@
+﻿  BML.cpp
+d:\git\bml\bml\bml\bml.cpp(73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\git\bml\bml\bml\bml.cpp(127): warning C4553: '==': operator has no effect; did you intend '='?
+d:\git\bml\bml\bml\bml.cpp(169): warning C4553: '==': operator has no effect; did you intend '='?
+  BML.vcxproj -> D:\Git\BML\BML\Debug\BML.exe
